@@ -26,6 +26,7 @@ public class ExcelRead {
 		ExcelRead ex = new ExcelRead();
 		String s = ex.readExcelData(0, 0);
 		System.out.println("EXCEL DATA:"+ s);
+		System.out.println("HELLO");
 
 	}
 }
